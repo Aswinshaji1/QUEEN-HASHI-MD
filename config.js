@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================ඕවා එඩිට් කරද්දි කිසිම දෙයක් වැරදියට දමන්න එපා !!MAIN-CONFIG====================
-SESSION_ID: process.env.SESSION_ID || "l783CCyA#7_V-NjOBJubZ41hK33pq3E101hlgKiF7b0taGV6lOqc",  // ADD Your Session Id 
+SESSION_ID: process.env.SESSION_ID || "Rj1y2LgL#HDytWGXI9PcxqvsYuRRkmty66sBY4BDDvZWbRfn0daA",  // ADD Your Session Id 
 //===========================මෙතනට-mongodburl-එකක් ඇඩ්කරගන්න============================================
 MONGODB: process.env.MONGODB || "mongodb+srv://SithumKalhara:97531@cluster0.iva7dbo.mongodb.net/?retryWrites=true&w=majority",
 //===============================උඩ එකට නැතනම් setting change වෙන්නේ නෑ==================================
